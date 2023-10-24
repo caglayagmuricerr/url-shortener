@@ -1,7 +1,4 @@
 # url-shortener
-## About
-A Flask-based URL shortener app with MongoDB integration, allowing users to generate and manage shortened URLs for personal use.
-
 ## Table of Contents
 - [About](#about)
 - [Built With](#built-with)
@@ -10,6 +7,11 @@ A Flask-based URL shortener app with MongoDB integration, allowing users to gene
 - [API Reference](#api-reference)
 - [Configuration](#configuration)
 - [License](#license)
+
+## About
+A Flask-based URL shortener app with MongoDB integration, allowing users to generate and manage shortened URLs for personal use.
+
+https://github.com/caglayagmuricerr/url-shortener/assets/119360644/662fec2d-78d5-4cc0-97b1-ca34b409117f
 
 ## Built With
 
